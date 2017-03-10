@@ -1,1 +1,0 @@
-/usr/bin/g++   -O2 -DNDEBUG   CMakeFiles/moab.dir/main.cpp.o  -o moab -rdynamic -L/home/krishna/Downloads/moab/sandbox/x86_64-unknown-linux-gnu/lib  -L/usr/local/lib -lMOAB    -lhdf5_hl  -lz -lhdf5  -lz  -ldl -lz -lm -lm -lm  -lhdf5hl_fortran -lhdf5_fortran  -lhdf5_cpp     -ldl -lz -lm -lm -lm 

@@ -1,3 +1,0 @@
-/home/krishna/research/mpm/moab/build/CMakeFiles/edit_cache.dir
-/home/krishna/research/mpm/moab/build/CMakeFiles/rebuild_cache.dir
-/home/krishna/research/mpm/moab/build/CMakeFiles/moab.dir
