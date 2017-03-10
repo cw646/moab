@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/krishna/research/mpm/moab/build",
+  "command": "/usr/bin/g++    -I/usr/local/include  -O2 -DNDEBUG   -std=gnu++11 -o CMakeFiles/moab.dir/main.cpp.o -c /home/krishna/research/mpm/moab/main.cpp",
+  "file": "/home/krishna/research/mpm/moab/main.cpp"
+}
+]

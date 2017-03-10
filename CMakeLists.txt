@@ -29,6 +29,7 @@ set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
 # MOAB
 find_package(MOAB)
 include_directories(${MOAB_INCLUDE_DIRS})
+link_libraries(${MOAB_LIBRARIES})
 
 set(SOURCE_FILES main.cpp)
 add_executable(moab ${SOURCE_FILES})
